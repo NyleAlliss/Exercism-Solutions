@@ -1,0 +1,11 @@
+# ninja log v5
+0	541	6413341168821210	CMakeFiles/space-age.dir/space_age.cpp.obj	da323463d862c0d8
+4	868	6413341172110172	CMakeFiles/space-age.dir/space_age_test.cpp.obj	e8722d0ac1923108
+10	3360	6413341196984843	CMakeFiles/space-age.dir/test/tests-main.cpp.obj	20dd1d93bd626603
+3360	4540	6413341207351933	space-age.exe	6bbced7d94a79bd
+1	185	6413341374038574	CMakeFiles/space-age.dir/space_age.cpp.obj	da323463d862c0d8
+185	701	6413341376558074	space-age.exe	6bbced7d94a79bd
+5	249	6413342503650194	CMakeFiles/space-age.dir/space_age.cpp.obj	da323463d862c0d8
+1	458	6413342505739528	CMakeFiles/space-age.dir/space_age_test.cpp.obj	e8722d0ac1923108
+458	843	6413342508654849	space-age.exe	6bbced7d94a79bd
+843	1070	0	CMakeFiles/test_space-age	4c582844446c0029
